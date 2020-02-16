@@ -21,5 +21,5 @@ Projet Voiture autonome:
     
   Demo :
   
-    + suivi.mp4 : video de suivi de ligne 
+    + suivi_de_ligne.mp4 : video de suivi de ligne 
     + detection.mp4 : video de capture, detection, reconnaisance et envoi de donnée de panneau
