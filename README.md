@@ -12,7 +12,7 @@ Projet Voiture autonome:
     + crop.py : programme d'identification des panneaux
     + snapshot.py : programme de prise de photo
     + car.py : programme de reconnaissance des panneaux
-    +comUART.py : programme de communication entre jetson nano et openmv en uart
+    + comUART.py : programme de communication entre jetson nano et openmv en uart
     
   OpenMv :
   
@@ -21,5 +21,5 @@ Projet Voiture autonome:
     
   Demo :
   
-    suivi.mp4 : video de suivi de ligne 
-    detection.mp4 : video de capture, detection, reconnaisance et envoi de donnée de panneau
+    + suivi.mp4 : video de suivi de ligne 
+    + detection.mp4 : video de capture, detection, reconnaisance et envoi de donnée de panneau
