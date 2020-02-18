@@ -1,6 +1,8 @@
 # Projet5A
 Projet Voiture autonome:
-  
+<p align="center">
+  <img src="https://github.com/AnthonyChevreau/Projet5A/blob/master/img/car.jpg" width="350" title="Voiture autonome">
+</p>  
   Documentation :
   
     + Présentation PPTX
